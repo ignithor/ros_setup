@@ -23,8 +23,6 @@ elif [[ $1 == 'zsh' ]]; then
 	alias cb='rd && caktin_make && sz'
 fi
 
-rosargcomp
-
 alias python=python3
 alias py=python3
 alias snb='sudo nano ~/.bashrc'
